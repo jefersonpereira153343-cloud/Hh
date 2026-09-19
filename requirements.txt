@@ -1,0 +1,7 @@
+telethon @ git+https://github.com/LonamiWebs/Telethon.git
+aiohttp
+aiofiles
+motor
+pymongo
+dnspython
+psutil
